@@ -29,6 +29,7 @@ public class MainActivity extends Activity {
 			ContextMenuInfo menuInfo) {
 		// TODO Auto-generated method stub
 		super.onCreateContextMenu(menu, v, menuInfo);
+		// I fix the memory issue
 	}
 
     
